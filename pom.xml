@@ -4,7 +4,7 @@
 
   <groupId>org.sitoolkit.ad</groupId>
   <artifactId>sit-ad-mw</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <packaging>jar</packaging>
   <dependencies>
     <dependency>
